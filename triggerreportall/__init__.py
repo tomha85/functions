@@ -1,6 +1,7 @@
 
 #blog trigger encryption
 #version 1.1
+#version gihub 
 import logging
 import azure.functions as func
 import gnupg
